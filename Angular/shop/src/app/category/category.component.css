@@ -1,0 +1,11 @@
+.nav-scroller a{
+    text-transform: uppercase;
+    border: 1px solid #6c757d;
+    text-decoration: none;
+    font-weight: 700;
+}
+.nav-scroller a:hover{
+    background-color: #6c757d;
+    color: white!important;
+    text-decoration: underline;
+}

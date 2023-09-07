@@ -1,0 +1,9 @@
+img{
+    padding:15px ;
+    width: 100%;
+    height: 250px;
+    object-fit: contain;
+}
+#description{
+    min-height: 50px;
+}
